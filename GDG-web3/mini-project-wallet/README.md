@@ -20,7 +20,7 @@ A secure Solidity smart contract that acts as a personal savings account on the 
 - [x] **Bonus - Events:** Emits `FundsDeposited` and `FundsWithdrawn` logs.
 - [x] **Bonus - Admin:** Included an `owner` role with a `getTotalLiquidity` view function.
 
----
+![Image](https://github.com/user-attachments/assets/e9f2c849-18fd-4ff5-afbe-f31421e39de4)---
 
 ## 🛠 Testing Guide
 1. **Min Deposit:** Ensure deposit value is ≥ 0.001 ETH (1,000,000 Gwei).
